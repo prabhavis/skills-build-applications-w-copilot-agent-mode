@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure-sb^e_wkbmxf90pzap9qq((&*o5t4a)d8lbq^xrqi==1ardz@dx
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'friendly-rotary-phone-8000.app.github.dev']
 
 
 # Application definition
